@@ -1,0 +1,19 @@
+#root div {
+    margin: auto;
+    width: 80%;
+    height: 50px;
+}
+
+#root h1 {
+    display: inline-block;
+}
+
+#menu {
+    list-style: none;
+    float: right;
+}
+
+#menu li {
+    margin: 0px 20px;
+    display: inline-block;
+}
